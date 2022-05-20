@@ -18,4 +18,6 @@ Here are some ideas to get you started:
 
 ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=yiGmMk&show_icons=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yiGmMk)](https://github.com/anuraghazra/github-readme-stats)
+
 [![go-tool](https://github-readme-stats.vercel.app/api/pin?username=yiGmMk&repo=go-tool)](https://github.com/yiGmMk/go-tool)
