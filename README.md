@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ 
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yiGmMk&show_icons=true&theme=radical)
+
+![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=yiGmMk&show_icons=true&theme=tokyonight)
+
+[![go-tool](https://github-readme-stats.vercel.app/api/pin?username=yiGmMk&repo=go-tool)](https://github.com/yiGmMk/go-tool)
