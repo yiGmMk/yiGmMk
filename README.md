@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yiGmMk&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 [![go-tool](https://github-readme-stats.vercel.app/api/pin?username=yiGmMk&repo=go-tool)](https://github.com/yiGmMk/go-tool)
+[![go-tool](https://github-readme-stats.vercel.app/api/pin?username=yiGmMk&repo=golang-1000-question)](https://github.com/yiGmMk/golang-1000-question)
