@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 [](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yiGmMk&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yiGmMk&theme=github)
 
-[![coding-practicing](https://github-readme-stats.vercel.app/api/pin?username=yiGmMk&repo=go-tool)](https://github.com/yiGmMk/coding-practicing)
+[![coding-practicing](https://github-readme-stats.vercel.app/api/pin?username=yiGmMk&repo=coding-practicing)](https://github.com/yiGmMk/coding-practicing)
