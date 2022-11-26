@@ -20,6 +20,6 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yiGmMk&theme=github" />
   <!-- 注释: https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yiGmMk&theme=github  -->
   <!-- 注释: https://github-readme-stats.vercel.app/api?username=liyue201&show_icons=true&include_all_commits=true&count_private=true-->
-  <img height="135em" src="https://github-readme-stats.vercel.app/api/pin?username=yiGmMk&repo=coding-practicing" />
-  <img height="135em" src="https://github-readme-stats.vercel.app/api/pin?username=yiGmMk&repo=zero-paopao" />
+  <!--   <img height="135em" src="https://github-readme-stats.vercel.app/api/pin?username=yiGmMk&repo=coding-practicing" /> -->
+  <!--   <img height="135em" src="https://github-readme-stats.vercel.app/api/pin?username=yiGmMk&repo=zero-paopao" /> -->
 </a>
