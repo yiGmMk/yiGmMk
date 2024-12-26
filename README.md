@@ -1,12 +1,9 @@
-## Gopher 👋
-
+[博客](https://programnotes.cn/)
 ## 工具
 
 - [AI导航](https://nav.programnotes.cn/)
 - [chatgpt](https://gpt.programnotes.cn/)
 - [bookmark](https://bookmark.programnotes.cn)
-
-## [博客](https://programnotes.cn/)
 
 ## 练习
 
