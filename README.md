@@ -35,4 +35,9 @@ Here are some ideas to get you started:
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [&lpar;译&rpar;AI 裁员潮：亚马逊、微软等科技巨头将 2025 年裁员归因于人工智能](https://programnotes.cn/ai-job-loss/index.html)
+- [AI|L2和L3级自动驾驶有什么区别](https://programnotes.cn/ai-self-driving/index.html)
+- [AI|Gemini CLI Tips &amp; Tricks](https://programnotes.cn/gemini-cli-tips-en/index.html)
+- [AI|Gemini CLI 实用技巧与窍门](https://programnotes.cn/gemini-cli-tips/index.html)
+- [限制 Microsoft Edge 浏览器的内存占用](https://programnotes.cn/browser-edge-limit-memory-usage/index.html)
 <!-- BLOG-POST-LIST:END -->
