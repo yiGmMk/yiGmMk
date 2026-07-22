@@ -35,9 +35,9 @@ Here are some ideas to get you started:
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI|AI面试题,AI来解答](https://programnotes.cn/ai-interview/index.html)
 - [译|为什么 TypeScript 7.0 用 Go 重写](https://programnotes.cn/go-the-agentic-language-zh/index.html)
 - [解决Fish Shell中使用vfox报错,Lacks hook support](https://programnotes.cn/fish-vfox-lack-hook/index.html)
 - [股票配债缴款操作指南](https://programnotes.cn/stock-convertible-bond/index.html)
 - [Deepseek大模型越狱/破甲提示词](https://programnotes.cn/ai-deepseek-jailbreak2/index.html)
-- [用DeepSeek-V4-Pro大模型写长篇小说,网文](https://programnotes.cn/ai-deepseek-novel/index.html)
 <!-- BLOG-POST-LIST:END -->
