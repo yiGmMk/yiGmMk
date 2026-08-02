@@ -35,9 +35,9 @@ Here are some ideas to get you started:
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [转载|一图看懂大模型性价比](https://programnotes.cn/ai-price-best/index.html)
 - [谷歌云收入暴增82%、公募科技持仓突破60%：AI不会减速的七个铁证](https://programnotes.cn/ai-trending/index.html)
 - [AI|AI面试题,AI来解答](https://programnotes.cn/ai-interview/index.html)
 - [译|为什么 TypeScript 7.0 用 Go 重写](https://programnotes.cn/go-the-agentic-language-zh/index.html)
 - [解决Fish Shell中使用vfox报错,Lacks hook support](https://programnotes.cn/fish-vfox-lack-hook/index.html)
-- [股票配债缴款操作指南](https://programnotes.cn/stock-convertible-bond/index.html)
 <!-- BLOG-POST-LIST:END -->
