@@ -35,9 +35,9 @@ Here are some ideas to get you started:
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [智元灵犀X2机器人二开02:端侧环境与第一个 AIMDK 程序](https://programnotes.cn/agibot-develop-2/index.html)
+- [智元灵犀X2机器人二开01:认识灵犀 X2 与二开全景，端侧、云端与灵心平台](https://programnotes.cn/agibot-develop-1/index.html)
 - [腾讯WorkBuddy海外版来啦,注册畅玩gpt-6-Astra,deepseek-4.1-flash限时免费](https://programnotes.cn/ai-workbuddy/index.html)
 - [Tencent&#39;s WorkBuddy AI: Sign Up to Enjoy GPT-6-Astra and now DeepSeek-4.1-Flash is Free](https://programnotes.cn/ai-workbuddy-en/index.html)
 - [AI|大模型智力测试,鹈鹕SVG生成](https://programnotes.cn/ai-test-v2/index.html)
-- [Grok账号如何获取SSO cookie及如何在vscode中使用grok api](https://programnotes.cn/ai-grok-sso/index.html)
-- [转载|一图看懂大模型性价比](https://programnotes.cn/ai-price-best/index.html)
 <!-- BLOG-POST-LIST:END -->
