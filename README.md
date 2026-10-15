@@ -38,6 +38,6 @@ Here are some ideas to get you started:
 - [Google Cloud 免费层 e2-micro 实例配置与 WireGuard 专网搭建](https://programnotes.cn/free-server-gcp-free-tier-wireguard-setup/index.html)
 - [译:Monetization Gateway Beta 版：借助 HTTP 402 为 AI Agent 按量计费](https://programnotes.cn/cloudflare-monetization-gateway-beta/index.html)
 - [AI|大模型智力测试,熊猫SVG生成](https://programnotes.cn/ai-test-v3/index.html)
-- [智元灵犀X2机器人二开02:端侧环境与第一个 AIMDK 程序](https://programnotes.cn/agibot-develop-2/index.html)
-- [智元灵犀X2机器人二开01:认识灵犀 X2 与二开全景，端侧、云端与灵心平台](https://programnotes.cn/agibot-develop-1/index.html)
+- [智元灵犀X2机器人二开06:从Demo到产品，复杂场景下的智能Agent](https://programnotes.cn/agibot-develop-6/index.html)
+- [智元灵犀X2机器人二开05:端云联合，语音意图控制动作与导航](https://programnotes.cn/agibot-develop-5/index.html)
 <!-- BLOG-POST-LIST:END -->
