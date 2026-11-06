@@ -35,9 +35,9 @@ Here are some ideas to get you started:
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [2026 年大模型越狱讨论：分层提示策略与社区争议](https://programnotes.cn/ai-jailbreak-2026-reddit-summary/index.html)
 - [Google Cloud 免费层 e2-micro 实例配置与 WireGuard 专网搭建](https://programnotes.cn/free-server-gcp-free-tier-wireguard-setup/index.html)
+- [DeepSeek LLM Jailbreak / Armor-Breaking Prompts](https://programnotes.cn/ai-deepseek-jailbreak2.en/index.html)
 - [译:Monetization Gateway Beta 版：借助 HTTP 402 为 AI Agent 按量计费](https://programnotes.cn/cloudflare-monetization-gateway-beta/index.html)
 - [AI|大模型智力测试,熊猫SVG生成](https://programnotes.cn/ai-test-v3/index.html)
-- [智元灵犀X2机器人二开02:端侧环境与第一个 AIMDK 程序](https://programnotes.cn/agibot-develop-2/index.html)
-- [智元灵犀X2机器人二开01:认识灵犀 X2 与二开全景，端侧、云端与灵心平台](https://programnotes.cn/agibot-develop-1/index.html)
 <!-- BLOG-POST-LIST:END -->
